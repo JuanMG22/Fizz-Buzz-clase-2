@@ -1,6 +1,4 @@
-# Fizz-Buzz-clase-2
-
-## Ejercicio Fizz Buzz ⚡
+# Ejercicio Fizz Buzz ⚡
 
 ## Escribir un programa que sea capaz de recibir un  numero y 
 evaluar las siguientes condiciones:
