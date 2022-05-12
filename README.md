@@ -1,6 +1,6 @@
 # Ejercicio Fizz Buzz ⚡
 
-## Escribir un programa que sea capaz de recibir un  numero y 
+### Escribir un programa que sea capaz de recibir un  numero y 
 evaluar las siguientes condiciones:
 
 ### 1-Si el número es divisible entre 3 --> 'Fizz'
